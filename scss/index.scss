@@ -1,0 +1,14 @@
+// bootstrap changes 
+
+
+//import bootstap sass link
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "./nav/nabar";
+@import "./footer/footer";
+@import "./hero/hero";
+@import "./feacter/feacher";
+
+//custom sass
+.fix-padding{
+    margin-top: 50px;
+}
